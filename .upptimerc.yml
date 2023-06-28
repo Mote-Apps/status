@@ -7,6 +7,7 @@ sites:
     url: https://mote.page
   - name: Mote Cloud API
     check: "tcp-ping"
+    port: 443
     url: $MOTE_CLOUD_URL
 
 status-website:
