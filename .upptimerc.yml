@@ -6,6 +6,7 @@ sites:
   - name: Mote Website
     url: https://mote.page
   - name: Mote Cloud API
+    check: "tcp-ping"
     url: $MOTE_CLOUD_URL
 
 status-website:
