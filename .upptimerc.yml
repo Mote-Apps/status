@@ -3,8 +3,10 @@ owner: Mote-Apps # Your GitHub organization or username, where this repository l
 repo: status # The name of this repository
 
 sites:
-  - name: Mote
+  - name: Mote Website
     url: https://mote.page
+  - name: Mote Cloud API
+    url: $MOTE_CLOUD_URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
