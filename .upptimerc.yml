@@ -9,8 +9,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: status.mote.page
-  baseUrl: /status
+  cname: status.mote.page
   logoUrl: https://mote.page/_nuxt/logo.fe355d72.jpeg
   name: Mote
   introTitle: "Check status of Mote products."
