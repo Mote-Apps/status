@@ -29,5 +29,8 @@ workflowSchedule:
   updates: "0 3 * * *"        # Runs at 3 AM every day to check for updates.
   uptime: "*/15 * * * *"      # Runs every 15 minutes to monitor uptime.
 
+i18n:
+  footer: "[Open source status page]($REPO)"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
