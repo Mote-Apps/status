@@ -16,7 +16,7 @@ status-website:
   cname: status.mote.page
   logoUrl: https://mote.page/_nuxt/logo.fe355d72.jpeg
   name: Mote | Status
-  introTitle: "Check status, uptime and incident reports for Mote products."
+  introTitle: "Check status for Mote products."
   introMessage: ""
   theme: light
   navbar:
