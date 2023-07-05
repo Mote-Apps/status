@@ -17,6 +17,17 @@
 
 <!--end: status pages-->
 
+
+## Want to leave feedback?
+
+As a team, Mote is highly involved in growing the community. If you have a problem, please feel welcome to visit our [Disccusions](https://github.com/Mote-Apps/mote-feedback) and drop a message.
+
+
+### It's quite sensitive...
+
+Noted! Please connect with one of our contributors ([@will-lamerton](https://github.com/will-lamerton) or [@mrspence](https://github.com/mrspence)) on Linkedin.
+
+
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
