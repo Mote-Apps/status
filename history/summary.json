@@ -15,7 +15,9 @@
     "timeWeek": 363,
     "timeMonth": 253,
     "timeYear": 253,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-15": 0
+    }
   },
   {
     "name": "Mote Cloud API (private)",
