@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mote.page.ico",
     "slug": "mote-website",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 253,
-    "timeDay": 133,
-    "timeWeek": 363,
-    "timeMonth": 253,
-    "timeYear": 253,
+    "uptime": "99.99%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 251,
+    "timeDay": 135,
+    "timeWeek": 312,
+    "timeMonth": 245,
+    "timeYear": 251,
     "dailyMinutesDown": {
-      "2023-12-15": 0
+      "2023-12-15": 23
     }
   },
   {
