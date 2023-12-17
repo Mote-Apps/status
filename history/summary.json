@@ -6,14 +6,14 @@
     "slug": "mote-website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.40%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 251,
-    "timeDay": 140,
-    "timeWeek": 247,
-    "timeMonth": 247,
+    "timeDay": 385,
+    "timeWeek": 271,
+    "timeMonth": 255,
     "timeYear": 251,
     "dailyMinutesDown": {
       "2023-12-15": 23
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 20,
-    "timeDay": 27,
-    "timeWeek": 17,
-    "timeMonth": 17,
+    "timeDay": 2,
+    "timeWeek": 16,
+    "timeMonth": 16,
     "timeYear": 20,
     "dailyMinutesDown": {}
   }
